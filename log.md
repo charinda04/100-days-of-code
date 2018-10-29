@@ -2,20 +2,113 @@
 
 ### Day 0: October 28, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did the first html project on freecode camp (took about 30 mins). Did a java freelance work which my frind gave. (took about 3 hours)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with Java program, I couldn't remember anything beacuse I used java after a long time.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** -
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: October 29, 2018
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 2: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 3: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 4: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 5: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 6: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 7: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 8: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 9: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 10: October 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
 
 
 ### Day 1: June 27, Monday
