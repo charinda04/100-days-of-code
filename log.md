@@ -12,7 +12,7 @@
 
 ### Day 1: October 29, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Spent about 1 hour trying out the challenges in the free code camp. 
 
 **Thoughts:** 
 
@@ -20,27 +20,17 @@
 
 
 
-### Day 2: October 28, 2018
+### Day 2: October 30, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Spent about 2 hours doing free code camp challenges. finished basic java script challenges.
 
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 3: October 28, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** failed to grasp some really simple ticks to solve the problems. Spant too much time in some easy problems.
 
 **Link to work:** -
 
 
 
-### Day 4: October 28, 2018
+### Day 3: October 31, 2018
 
 **Today's Progress**: 
 
@@ -50,7 +40,7 @@
 
 
 
-### Day 5: October 28, 2018
+### Day 4: November 01, 2018
 
 **Today's Progress**: 
 
@@ -60,7 +50,7 @@
 
 
 
-### Day 6: October 28, 2018
+### Day 5: November 02, 2018
 
 **Today's Progress**: 
 
@@ -70,7 +60,7 @@
 
 
 
-### Day 7: October 28, 2018
+### Day 6: November 03, 2018
 
 **Today's Progress**: 
 
@@ -80,7 +70,7 @@
 
 
 
-### Day 8: October 28, 2018
+### Day 7: November 04, 2018
 
 **Today's Progress**: 
 
@@ -90,7 +80,7 @@
 
 
 
-### Day 9: October 28, 2018
+### Day 8: November 05, 2018
 
 **Today's Progress**: 
 
@@ -100,7 +90,17 @@
 
 
 
-### Day 10: October 28, 2018
+### Day 9: November 06, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 10: November 07, 2018
 
 **Today's Progress**: 
 
