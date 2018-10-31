@@ -32,9 +32,9 @@
 
 ### Day 3: October 31, 2018
 
-**Today's Progress**: 
+**Today's Progress**: spent about 2 hours doing freecode camp challenges. Nearly finished ES6 challengers. Started some React js challenges too.
 
-**Thoughts:** 
+**Thoughts:** most of the ES6 challenges were easy because I'm little bit familiar with destructuring, arrow functions and template literals.
 
 **Link to work:** -
 
