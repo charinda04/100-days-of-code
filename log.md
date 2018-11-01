@@ -42,9 +42,9 @@
 
 ### Day 4: November 01, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Spent about 1 hour of coding in freecodecamp. Learnt about regular expressions(little bit) and debugging(I did already know all of it). 
 
-**Thoughts:** 
+**Thoughts:** This is the first time I learnt about regular experssions. I like that part.
 
 **Link to work:** -
 
