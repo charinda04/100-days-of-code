@@ -62,7 +62,7 @@
 
 ### Day 6: November 03, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Couldn't do anything today
 
 **Thoughts:** 
 
@@ -82,9 +82,9 @@
 
 ### Day 8: November 05, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Finished ES6 part and regular expressions part in the freecode camp. coded about 2 hours.
 
-**Thoughts:** 
+**Thoughts:** The regular expressions part was a whole new for me. Haven't use the match() method before.
 
 **Link to work:** -
 
@@ -92,9 +92,9 @@
 
 ### Day 9: November 06, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Did some basic data structures problems in freecode camp for 1 hour.
 
-**Thoughts:** 
+**Thoughts:** Learnt about array functions like push/ pop/ shift/ unshift/ splice/ slice
 
 **Link to work:** -
 
