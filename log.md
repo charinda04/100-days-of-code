@@ -52,35 +52,35 @@
 
 ### Day 5: November 02, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Finished the oop part in the freecode camp. 
 
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 6: November 03, 2018
-
-**Today's Progress**: Couldn't do anything today
-
-**Thoughts:** 
+**Thoughts:** The concept was similar to normal oop. The challenges were quite ok.
 
 **Link to work:** -
 
 
 
-### Day 7: November 04, 2018
+### Day dosn't count: November 03, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Couldn't do anything today. 
 
-**Thoughts:** 
+**Thoughts:** My weekend plannings are pretty bad actually. I'll take this as 1 day for 2 weeks. 
 
 **Link to work:** -
 
 
 
-### Day 8: November 05, 2018
+### Day 6: November 04, 2018
+
+**Today's Progress**: Did few of the basic data structure problems in the freecode camp. For about 30 mins.
+
+**Thoughts:** Did the 30mins because I could't get 2 days out in a row. Again bad weekend planning. Not going to let this happen in the next week.
+
+**Link to work:** -
+
+
+
+### Day 7: November 05, 2018
 
 **Today's Progress**: Finished ES6 part and regular expressions part in the freecode camp. coded about 2 hours.
 
@@ -90,7 +90,7 @@
 
 
 
-### Day 9: November 06, 2018
+### Day 8: November 06, 2018
 
 **Today's Progress**: Did some basic data structures problems in freecode camp for 1 hour.
 
@@ -100,7 +100,7 @@
 
 
 
-### Day 10: November 07, 2018
+### Day 9: November 07, 2018
 
 **Today's Progress**: 
 
@@ -110,8 +110,207 @@
 
 
 
+### Day 10: November 08, 2018
 
-### Day 1: June 27, Monday
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 11: November 09, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 12: November 10, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 13: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 14: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 15: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 16: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 17: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 18: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 19: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 20: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 21: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 22: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 23: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 24: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 25: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 26: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 27: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 28: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 29: November 07, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 30: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
