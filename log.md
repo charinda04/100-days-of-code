@@ -92,9 +92,9 @@
 
 ### Day 8: November 06, 2018
 
-**Today's Progress**: Did some basic data structures problems in freecode camp for 1 hour.
+**Today's Progress**: Did some basic data structures problems in freecode camp for 1 hour. Did front end react js for about 2 hours.
 
-**Thoughts:** Learnt about array functions like push/ pop/ shift/ unshift/ splice/ slice
+**Thoughts:** Learnt about array functions like push/ pop/ shift/ unshift/ splice/ slice. Wrote react components from scratch.
 
 **Link to work:** -
 
