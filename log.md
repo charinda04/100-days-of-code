@@ -102,9 +102,9 @@
 
 ### Day 9: November 07, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Did most of the reacj js and redux parts in the freecode camp challenges. code about 3 hours.
 
-**Thoughts:** 
+**Thoughts:** I'm getting familiar with react js and redux.
 
 **Link to work:** -
 
