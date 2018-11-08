@@ -112,9 +112,9 @@
 
 ### Day 10: November 08, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Code for about 3 hours. Did challenges on html bootstrap, node and express js.
 
-**Thoughts:** 
+**Thoughts:** Got some basic idea about how to do server side coding using node js.
 
 **Link to work:** -
 
