@@ -122,9 +122,9 @@
 
 ### Day 11: November 09, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Code for about 1 hour. Did few challenges on MongoDB and Mongoose. And finished doing jquery challenges.
 
-**Thoughts:** 
+**Thoughts:** Although I have earlier worked with mongoDb I have forgoten everything. This was a whole new experience. And the challenges were bit hard.
 
 **Link to work:** -
 
@@ -132,7 +132,57 @@
 
 ### Day 12: November 10, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Code for about 1 hour and 30 mins. Created a React-Express boilerplate. The work is uploaded to the github.
+
+**Thoughts:** Boilerplate is construct by watching a youtube video.
+
+**Link to work:** -
+
+
+
+### Day 13: November 11, 2018
+
+**Today's Progress**: Coded for about 30 mins. Halfly done a html/css challenge in freecode camp.
+
+**Thoughts:** My weekend rythem continued. Needed a day out. Acutally got a day out, but did some coding for 30mins. It's only because of the challenge's sake. I really have to change this behaviour. From today onwards I'm going to commit more. No more tv series or movies untill the 50th day. 
+
+**Link to work:** -
+
+
+
+### Day 14: November 12, 2018
+
+**Today's Progress**: try out on react routes for about a hour
+
+**Thoughts:** react routes are not much difficult. but I realized that the video I was watching was very old.
+
+**Link to work:** -
+
+
+
+### Day 15: November 13, 2018
+
+**Today's Progress**: didn't do any coding, started reactjs fundermentels course from lynda.com. downloaded a single page react application from lynda.com too
+
+**Thoughts:** productivity is very low.
+
+**Link to work:** -
+
+
+
+### Day 16: November 14, 2018
+
+**Today's Progress**: started anothor project on fullstack react application. coded for about 1 hour.
+
+**Thoughts:** my productivity is very low, I fall asleep very quickly. have to control this.
+
+**Link to work:** -
+
+
+
+### Day 17: November 15, 2018
+
+**Today's Progress**: Contined to work on the fullstack reack application
 
 **Thoughts:** 
 
@@ -140,97 +190,37 @@
 
 
 
-### Day 13: November 07, 2018
+### Day 18: November 16, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Looked into course cs50 web development with python
 
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 14: November 07, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Started a course in Edx, Harvard cs50 web development with python course. The course is actually pretty good. Ihope to continue it.
 
 **Link to work:** -
 
 
 
-### Day 15: November 07, 2018
+### Day 19: November 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Learned about python web wevelopment. Learn about python Flask
 
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 16: November 07, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Pretty interested in using flask in my applications.
 
 **Link to work:** -
 
 
 
-### Day 17: November 07, 2018
+### Day 20: November 18, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Did cs50 web development sql part. Did a tutorial on MERN stack
 
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 18: November 07, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** didn't code much in the cs50 web tutorial. MERN stack tutorla half done 4/8. Learned a lot about mern stack.
 
 **Link to work:** -
 
 
 
-### Day 19: November 07, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 20: November 07, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 21: November 07, 2018
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** -
-
-
-
-### Day 22: November 07, 2018
+### Day 21: November 19, 2018
 
 **Today's Progress**: 
 
@@ -240,7 +230,7 @@
 
 
 
-### Day 23: November 07, 2018
+### Day 22: November 20, 2018
 
 **Today's Progress**: 
 
@@ -250,7 +240,7 @@
 
 
 
-### Day 24: November 07, 2018
+### Day 23: November 21, 2018
 
 **Today's Progress**: 
 
@@ -260,7 +250,7 @@
 
 
 
-### Day 25: November 07, 2018
+### Day 24: November 22, 2018
 
 **Today's Progress**: 
 
@@ -270,7 +260,7 @@
 
 
 
-### Day 26: November 07, 2018
+### Day 25: November 23, 2018
 
 **Today's Progress**: 
 
@@ -280,7 +270,7 @@
 
 
 
-### Day 27: November 07, 2018
+### Day 26: November 24, 2018
 
 **Today's Progress**: 
 
@@ -290,7 +280,7 @@
 
 
 
-### Day 28: November 07, 2018
+### Day 27: November 25, 2018
 
 **Today's Progress**: 
 
@@ -300,7 +290,524 @@
 
 
 
-### Day 29: November 07, 2018
+### Day 28: November 26, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 29: November 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+### Day 30: November 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 31: November 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 32: November 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 33: November 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 34: November 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 35: November 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 36: November 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 37: November 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 38: November 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 39: November 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 40: November 21, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 41: November 22, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 42: November 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 43: November 24, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 44: November 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 45: November 26, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 46: November 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+### Day 47: November 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 48: November 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 49: November 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 50: November 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+---------------------------------------------------------------------------------------------- add more people to the challenge
+
+### Day 17: November 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 18: November 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 19: November 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 20: November 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 21: November 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 22: November 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 23: November 21, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 24: November 22, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 25: November 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 26: November 24, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 27: November 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 28: November 26, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 29: November 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+### Day 13: November 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 14: November 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 15: November 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 16: November 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 17: November 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 18: November 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 19: November 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 20: November 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 21: November 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 22: November 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 23: November 21, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 24: November 22, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 25: November 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 26: November 24, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 27: November 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 28: November 26, 2018
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** -
+
+
+
+### Day 29: November 27, 2018
 
 **Today's Progress**: 
 
