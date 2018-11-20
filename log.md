@@ -222,9 +222,9 @@
 
 ### Day 21: November 19, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Complete the redux part in the MERN stack.
 
-**Thoughts:** 
+**Thoughts:** Got a idea about how the front end framework and the back end framework connects.
 
 **Link to work:** -
 
@@ -232,9 +232,9 @@
 
 ### Day 22: November 20, 2018
 
-**Today's Progress**: 
+**Today's Progress**: finished the MERN stack shopping list
 
-**Thoughts:** 
+**Thoughts:** Got an idea about how tok deploy an app using heroku
 
 **Link to work:** -
 
